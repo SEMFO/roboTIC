@@ -1,1 +1,1 @@
-# roboTIC-SO-ARM-101
+# roboTIC
