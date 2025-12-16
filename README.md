@@ -1,3 +1,3 @@
 # roboTIC
 
-Espace dédié aux projet de robotique
+Espace dédié aux projets de robotique
